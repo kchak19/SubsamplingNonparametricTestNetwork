@@ -1,4 +1,4 @@
-setwd("~/Desktop/Nonparametric")
+#setwd("~/Desktop/Nonparametric")
 source("NonPfunctions.R")
 
 #initialize simulation experiment parameters
